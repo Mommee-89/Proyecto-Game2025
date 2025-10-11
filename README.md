@@ -19,7 +19,7 @@ El juego se inspira en el clasico "juego del dinosaurio" del navegador Google Ch
 ### Acciones del jugador
 - El personaje principal puede saltar al presionar una tecla (por ejemplo, la barra espaciadora).  
 - Si el personaje esta en el aire, no puede volver a saltar hasta tocar el suelo nuevamente.  
-- El personaje corre de manera automatica hacia la derecha (el fondo se movera para simular desplazamiento).  
+- El personaje corre de manera automatica hacia la derecha.  
 - Cada vez que el jugador esquiva un obstaculo, la puntuacion aumenta.  
 
 ### Obstaculos
